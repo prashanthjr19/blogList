@@ -1,0 +1,10 @@
+/* Write your CSS code here */
+.list-item {
+  width: 100%;
+}
+
+.role-container {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+}
